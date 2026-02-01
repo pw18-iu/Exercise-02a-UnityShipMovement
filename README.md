@@ -15,4 +15,4 @@ The tutorial video don't provide the specific input rules for key S. I try to co
 The first attempt is interesting, but also complex. In the future, I will try to translate these events into sentences or formulas that I can understand, otherwise, just looking at the images made it difficult for me to understand what's these chains and events do.
 
 ## Created by
-Peiwen Wanf
+Peiwen Wang
